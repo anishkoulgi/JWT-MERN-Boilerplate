@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Archia;
+  src: url(./Fonts/Archia-Regular.otf);
+}
+
+.status {
+  width: 100%;
+  background-color: #ffe0e6;
+  color: #ff0e3f;
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2vh;
+  padding: 1vh;
+  border-radius: 5px;
+  font-family: Archia;
+}
+
+.status-s {
+  width: 100%;
+  background-color: #e4f4e8;
+  color: #29a746;
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-top: 2vh;
+  padding: 1vh;
+  font-family: Archia;
+}
+
+.wrapper {
+  font-family: Archia;
+}
+
+.loggedIn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e3e2f3;
+  color: #4943b2;
+  height: 8vh;
+  font-family: Archia;
+  width: 100%;
+}
